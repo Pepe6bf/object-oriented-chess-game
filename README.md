@@ -1,5 +1,8 @@
 # 객체지향 체스 게임 프로젝트
 
+<img src="https://user-images.githubusercontent.com/82431511/150663746-bd37a3c4-11bb-491f-a1af-b635190427a0.png" width="500" height="500">
+
+(UI 참고 : https://github.com/bigdream96/chess-game)
 > 분명 열심히 자바의 정X을 N회독 하며 공부했던 객체지향...! 아직도 알듯 말듯 한 객체지향 개념을 복습하고 활용 해 보기 위해 만들어 보는 객체지향 체스 게임 프로젝트입니다!
 
 ## 개발 환경 및 기술
