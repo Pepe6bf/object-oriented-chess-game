@@ -9,7 +9,8 @@
 
 * IntelliJ IDEA Ultimate 2022.1.3
 * Java 17
-* Lombok
+* Gradle 7.5.1
+* Lombok 1.18.24
 
 ## Docs
 
